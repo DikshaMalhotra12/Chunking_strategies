@@ -1,0 +1,5 @@
+nltk
+spacy
+langchain
+langchain-community
+tiktoken
